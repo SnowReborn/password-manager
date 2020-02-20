@@ -1,0 +1,13 @@
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\bin\Debug\IJJI Launcher.exe
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\bin\Debug\IJJI Launcher.pdb
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\bin\Debug\IJJI Launcher.xml
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI_Launcher.Form1.resources
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI_Launcher.Form2.resources
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI_Launcher.Resources.resources
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI Launcher.exe
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI Launcher.xml
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\obj\x86\Debug\IJJI Launcher.pdb
+C:\Visual Basic\IJJI Launcher\IJJI Launcher\IJJI Launcher\bin\Debug\INIControl.dll
